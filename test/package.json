@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bdeco/core": "^1.1.0"
+    "@bdeco/core": "^1.0.0"
   }
 }

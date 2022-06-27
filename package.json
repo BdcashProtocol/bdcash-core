@@ -1,6 +1,6 @@
 {
   "name": "@bdeco/core",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "BDCashProtocol Javascript Library for build Blockchain enabled applications.",
   "private": false,
   "main": "src/index.js",
